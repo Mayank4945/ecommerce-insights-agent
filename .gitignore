@@ -1,0 +1,120 @@
+# ==========================================
+# CRITICAL: DO NOT COMMIT SENSITIVE DATA
+# ==========================================
+
+# API Keys & Environment Variables
+.env
+.env.local
+*.env
+!.env.example
+**/api_keys.txt
+**/*_key.txt
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# ==========================================
+# Database & Data Files
+# ==========================================
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# CSV data files (keep structure, not data)
+data/*.csv
+data/**/*.csv
+data/ecommerce.db*
+
+# Keep directory structure
+!data/.gitkeep
+!data/memory/.gitkeep
+
+# ==========================================
+# Application Generated Files
+# ==========================================
+
+# Memory/Session files
+data/memory/*.json
+data/memory/*.pkl
+
+# Logs
+logs/
+*.log
+!logs/.gitkeep
+
+# Cache
+.cache/
+*.cache
+
+# ==========================================
+# Development Tools
+# ==========================================
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# OS Specific
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Streamlit
+# ==========================================
+.streamlit/secrets.toml
+
+# ==========================================
+# Testing
+# ==========================================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================================
+# Temporary & Backup Files
+# ==========================================
+tmp/
+temp/
+*.tmp
+*_backup.py
+*_fixed.py
+*.bak
