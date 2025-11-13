@@ -41,7 +41,7 @@ The **E-Commerce Insights Agent** is a sophisticated GenAI-powered system that e
 
 ### 🎥 Demo Video
 
-> **[Add your demo video link here]** - 5-7 minute pitch and technical demonstration
+> **[https://drive.google.com/file/d/1XKdS6qBliKDGcPRtlY9OxohUhK-gUMaU/view?usp=sharing]** - 5-7 minute pitch and technical demonstration
 
 ### Key Highlights
 
@@ -603,10 +603,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Candidate**: [Your Name]  
-**Email**: [your.email@example.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]
+**Candidate**: [Mayank Sharma]  
+**Email**: [m4945sharma@gmail.com]  
+**LinkedIn**: [https://www.linkedin.com/in/mayank-sharma-pes/]  
+**GitHub**: [https://github.com/Mayank4945]
 
 ---
 
